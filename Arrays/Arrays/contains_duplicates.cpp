@@ -1,7 +1,7 @@
-//Problem : Contains Duplicate
-//Platform : LeetCode
-//Time Complexity : O(n)
-//Space Complexity : O(1)
+// Problem : Contains Duplicate
+// Platform : LeetCode
+// Time Complexity : O(n)
+// Space Complexity : O(1)
 
 class Solution {
 public:
