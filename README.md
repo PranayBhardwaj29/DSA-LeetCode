@@ -7,6 +7,8 @@ Problems are organized topic-wise with clear explanations and approaches.
 ## Topics Covered
 - Arrays
 - Binary Search
+- Strings
+- 2D arrays & vectors
 
 More topics will be added gradually.
 
