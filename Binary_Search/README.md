@@ -1,1 +1,1 @@
-This folder contains some binary_search related dsa problems i solved on leetcode.
+This folder contains binary_search-related DSA problems.
