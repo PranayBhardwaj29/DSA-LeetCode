@@ -9,6 +9,7 @@ Problems are organized topic-wise with clear explanations and approaches.
 - Binary Search
 - Strings
 - 2D arrays & vectors
+- Recursion
 
 More topics will be added gradually.
 
